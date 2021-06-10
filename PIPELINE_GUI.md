@@ -16,9 +16,9 @@ hello_world_docker_run. parallel run hello-world-jmeter, hello-world-selenium
 Go to  Manage Jenkins ->  Manage Plugin -> Tab available  
 Filter Pipeline  select Build Pipeline   
 Press install without restart   
-Go back to the Dashboard  , click on the cross in the tab 
+Go back to the Dashboard s in the tab 
 View name :  hello-world pipeline  
-Check Build Pipeline view   
+Check Build Pipeline view   ![img.png](img.png)
 Press ok   
 Verify if select initial job is set to  hello-world-maven  
 See the graph   
